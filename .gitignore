@@ -1,0 +1,11 @@
+# Virtual environment and IDE settings
+.venv/
+.idea/
+
+# OS and Python caches
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+
+# Datasets are downloaded locally (see download.ipynb), not versioned
+data/
