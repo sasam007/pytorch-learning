@@ -8,7 +8,6 @@ The computer vision project that concludes this path has its own repository: [fa
 
 - `circle_0.ipynb`, `linear_0.ipynb`, `linear_1.ipynb`, `linear_2.ipynb`, `linear_classification_0.ipynb`: regression and linear models
 - `multiclass_0.ipynb`: multiclass classification
-- `fashion_mnist_classification.ipynb`: first version of the FashionMNIST computer vision project (the cleaned-up version is in the repository above)
 - `download.ipynb`: dataset download
 - `helper_functions.py`: shared utility functions
 
